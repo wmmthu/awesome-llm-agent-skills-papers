@@ -30,7 +30,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Surveys & Position Papers
 
-- _Contributions welcome._
+- **SoK: Agentic Skills — Beyond Tool Use in LLM Agents** — Jiang et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.20867)
 
 ## Skill Definition & Formats
 
@@ -67,7 +67,12 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Benchmarks & Evaluation
 
-- _Contributions welcome._
+- **CL-bench: A Benchmark for Context Learning** — Dou et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.03587) [code](https://github.com/Tencent-Hunyuan/CL-bench)
+- **SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks** — Li et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.12670) [site](https://www.skillsbench.ai/)
+- **SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?** — Han et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2603.15401) [code](https://github.com/GeniusHTX/SWE-Skills-Bench)
+- **SkillTester: Benchmarking Utility and Security of Agent Skills** — Wang et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2603.28815) [code](https://github.com/skilltester-ai/skilltester) [site](https://skilltester.ai)
+- **How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings** — Liu et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.04323) [code](https://github.com/UCSB-NLP-Chang/Skill-Usage)
+- **SkillLearnBench: Benchmarking Continual Learning Methods for Agent Skill Generation on Real-World Tasks** — Zhong et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.20087) [code](https://github.com/cxcscmu/SkillLearnBench)
 
 ## Systems & Frameworks
 
