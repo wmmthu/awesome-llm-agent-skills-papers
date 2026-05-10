@@ -60,7 +60,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Skill Retrieval & Selection
 
-- _Contributions welcome._
+- **Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills** — Liu et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.05333) [code](https://github.com/davidliuk/graph-of-skills)
 
 ## Skill Composition & Reuse
 
