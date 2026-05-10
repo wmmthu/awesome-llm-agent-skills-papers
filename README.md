@@ -21,7 +21,6 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Skill Retrieval & Selection](#skill-retrieval--selection)
 - [Skill Composition & Reuse](#skill-composition--reuse)
 - [Tool Use & Function Calling](#tool-use--function-calling)
-- [Procedural Memory & Lifelong Learning](#procedural-memory--lifelong-learning)
 - [Benchmarks & Evaluation](#benchmarks--evaluation)
 - [Systems & Frameworks](#systems--frameworks)
 - [Blogs & Engineering Notes](#blogs--engineering-notes)
@@ -77,10 +76,6 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Large Language Models as Tool Makers** — Cai et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2305.17126) [code](https://github.com/ctlllll/LLM-ToolMaker)
 - **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** — Qin et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2307.16789) [code](https://github.com/OpenBMB/ToolBench)
 - **Tool Learning with Large Language Models: A Survey** — Qu et al. *arXiv 2024*. [paper](https://arxiv.org/abs/2405.17935)
-
-## Procedural Memory & Lifelong Learning
-
-- _Contributions welcome._
 
 ## Benchmarks & Evaluation
 
