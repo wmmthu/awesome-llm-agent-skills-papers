@@ -14,7 +14,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
 
-- [Surveys & Position Papers](#surveys--position-papers)
+- [Surveys](#surveys)
 - [Skill Definition & Formats](#skill-definition--formats)
 - [Skill Acquisition & Induction](#skill-acquisition--induction)
 - [Skill Curation & Learning](#skill-curation--learning)
@@ -27,7 +27,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Contributing](#contributing)
 - [License](#license)
 
-## Surveys & Position Papers
+## Surveys
 
 - **SoK: Agentic Skills — Beyond Tool Use in LLM Agents** — Jiang et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.20867)
 - **Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward** — Xu and Yan. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.12430)
