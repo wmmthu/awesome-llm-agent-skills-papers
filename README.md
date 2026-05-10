@@ -30,21 +30,32 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Surveys & Position Papers
 
-- _Contributions welcome._
+- **Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward** — Xu and Yan. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.12430)
+- **Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering** — Zhou et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.08224)
 
 ## Skill Definition & Formats
 
-- _Contributions welcome._
+- **Agent Skills Enable a New Class of Realistic and Trivially Simple Prompt Injections** — Schmotz et al. *arXiv 2025*. [paper](https://arxiv.org/abs/2510.26328)
+- **Agent Skills Open Standard** — Anthropic. *2025*. [site](https://agentskills.io)
+- **Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale** — Liu et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2601.10338)
+- **Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study** — Liu et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.06547)
 
 ## Skill Acquisition & Induction
 
 - **Code as Policies: Language Model Programs for Embodied Control** — Liang et al. *arXiv 2022*. [paper](https://arxiv.org/abs/2209.07753)
 - **Voyager: An Open-Ended Embodied Agent with Large Language Models** — Wang et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2305.16291) [code](https://github.com/MineDojo/Voyager)
 - **Eureka: Human-Level Reward Design via Coding Large Language Models** — Ma et al. *ICLR 2024*. [paper](https://arxiv.org/abs/2310.12931) [code](https://github.com/eureka-research/Eureka)
+- **SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience** — Sun et al. *arXiv 2025*. [paper](https://arxiv.org/abs/2508.04700) [code](https://github.com/SunzeY/SEAgent)
+- **CUA-Skill: Develop Skills for Computer Using Agent** — Chen et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2601.21123)
+- **Improving Interactive In-Context Learning from Natural Language Feedback** — Klissarov et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.16066)
+- **From Context to Skills: Can Language Models Learn from Context Skillfully?** — Si et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.27660) [code](https://github.com/S1s-Z/Ctx2Skill)
 
 ## Skill Library Construction & Curation
 
-- _Contributions welcome._
+- **Reinforcement Learning for Self-Improving Agent with Skill Library** — Wang et al. *arXiv 2025*. [paper](https://arxiv.org/abs/2512.17102)
+- **SkillX: Automatically Constructing Skill Knowledge Bases for Agents** — Wang et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.04804)
+- **Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning** — Shi et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2605.06130)
+- **SkillOS: Learning Skill Curation for Self-Evolving Agents** — Ouyang et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2605.06614)
 
 ## Skill Retrieval & Selection
 
@@ -54,16 +65,22 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - **ReAct: Synergizing Reasoning and Acting in Language Models** — Yao et al. *ICLR 2023*. [paper](https://arxiv.org/abs/2210.03629) [code](https://github.com/ysymyth/ReAct)
 - **Reflexion: Language Agents with Verbal Reinforcement Learning** — Shinn et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2303.11366)
+- **When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail** — Li. *arXiv 2026*. [paper](https://arxiv.org/abs/2601.04748)
+- **Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis** — Jiao et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.03279)
 
 ## Tool Use & Function Calling
 
 - **Toolformer: Language Models Can Teach Themselves to Use Tools** — Schick et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2302.04761)
+- **CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models** — Qian et al. *Findings of EMNLP 2024*. [paper](https://arxiv.org/abs/2305.14318)
 - **Gorilla: Large Language Model Connected with Massive APIs** — Patil et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2305.15334) [code](https://github.com/ShishirPatil/gorilla)
+- **Large Language Models as Tool Makers** — Cai et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2305.17126) [code](https://github.com/ctlllll/LLM-ToolMaker)
 - **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** — Qin et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2307.16789) [code](https://github.com/OpenBMB/ToolBench)
+- **Tool Learning with Large Language Models: A Survey** — Qu et al. *arXiv 2024*. [paper](https://arxiv.org/abs/2405.17935)
 
 ## Procedural Memory & Lifelong Learning
 
 - **Generative Agents: Interactive Simulacra of Human Behavior** — Park et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2304.03442) [code](https://github.com/joonspk-research/generative_agents)
+- **SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization** — Lu et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.02268) [code](https://github.com/ZJU-REAL/SkillZero)
 
 ## Benchmarks & Evaluation
 
