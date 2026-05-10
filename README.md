@@ -17,7 +17,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Surveys & Position Papers](#surveys--position-papers)
 - [Skill Definition & Formats](#skill-definition--formats)
 - [Skill Acquisition & Induction](#skill-acquisition--induction)
-- [Skill Library Construction & Curation](#skill-library-construction--curation)
+- [Skill Curation & Learning](#skill-curation--learning)
 - [Skill Retrieval & Selection](#skill-retrieval--selection)
 - [Skill Composition & Reuse](#skill-composition--reuse)
 - [Tool Use & Function Calling](#tool-use--function-calling)
@@ -50,9 +50,10 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Improving Interactive In-Context Learning from Natural Language Feedback** — Klissarov et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.16066)
 - **From Context to Skills: Can Language Models Learn from Context Skillfully?** — Si et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.27660) [code](https://github.com/S1s-Z/Ctx2Skill)
 
-## Skill Library Construction & Curation
+## Skill Curation & Learning
 
 - **Reinforcement Learning for Self-Improving Agent with Skill Library** — Wang et al. *arXiv 2025*. [paper](https://arxiv.org/abs/2512.17102)
+- **SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization** — Lu et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.02268) [code](https://github.com/ZJU-REAL/SkillZero)
 - **SkillX: Automatically Constructing Skill Knowledge Bases for Agents** — Wang et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.04804)
 - **Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning** — Shi et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2605.06130)
 - **SkillOS: Learning Skill Curation for Self-Evolving Agents** — Ouyang et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2605.06614)
@@ -79,8 +80,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Procedural Memory & Lifelong Learning
 
-- **Generative Agents: Interactive Simulacra of Human Behavior** — Park et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2304.03442) [code](https://github.com/joonspk-research/generative_agents)
-- **SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization** — Lu et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.02268) [code](https://github.com/ZJU-REAL/SkillZero)
+- _Contributions welcome._
 
 ## Benchmarks & Evaluation
 
