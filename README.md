@@ -49,6 +49,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **CUA-Skill: Develop Skills for Computer Using Agent** — Chen et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2601.21123)
 - **Improving Interactive In-Context Learning from Natural Language Feedback** — Klissarov et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.16066)
 - **From Context to Skills: Can Language Models Learn from Context Skillfully?** — Si et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2604.27660) [code](https://github.com/S1s-Z/Ctx2Skill)
+- **OpenSkill: Open-World Self-Evolution for LLM Agents** — Yan et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2606.06741) [site](https://openlair.github.io/openskill/)
 
 ## Skill Curation & Learning
 
