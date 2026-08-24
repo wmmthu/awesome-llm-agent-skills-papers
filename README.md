@@ -68,6 +68,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Reflexion: Language Agents with Verbal Reinforcement Learning** — Shinn et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2303.11366)
 - **When Single-Agent with Skills Replace Multi-Agent Systems and When They Fail** — Li. *arXiv 2026*. [paper](https://arxiv.org/abs/2601.04748)
 - **Agentic Proposing: Enhancing Large Language Model Reasoning via Compositional Skill Synthesis** — Jiao et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2602.03279)
+- **ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction** — Zhong et al. *Findings of EMNLP 2026*. [paper](https://arxiv.org/abs/2608.20920) [code](https://github.com/zhongzero/ForeDreamer) [site](https://zhongzero.github.io/ForeDreamer/)
 
 ## Tool Use & Function Calling
 
