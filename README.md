@@ -77,6 +77,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **Large Language Models as Tool Makers** — Cai et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2305.17126) [code](https://github.com/ctlllll/LLM-ToolMaker)
 - **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** — Qin et al. *arXiv 2023*. [paper](https://arxiv.org/abs/2307.16789) [code](https://github.com/OpenBMB/ToolBench)
 - **Tool Learning with Large Language Models: A Survey** — Qu et al. *arXiv 2024*. [paper](https://arxiv.org/abs/2405.17935)
+- **Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction** — Gao et al. *arXiv 2026*. [paper](https://arxiv.org/abs/2601.12762) [code](https://github.com/NEUIR/ToolMaster)
 
 ## Benchmarks & Evaluation
 
